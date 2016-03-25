@@ -1,0 +1,5 @@
+<?php
+    // SHMADNESS
+    $wAppid = '';
+    $wKey   = '';
+ ?>
